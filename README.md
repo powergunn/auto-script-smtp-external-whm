@@ -1,5 +1,5 @@
 ## Documentation
-Sciprt ini adalah Script untuk mendapatkan String Session Telethon dan Pyrogram di BOT Telegram.
+Sciprt ini adalah Script Auto Pasang SMTP External di WHM/cPanel (Exim Configuraion)
 ```shell script
-wget -O string.py https://s.id/1X6pH && python3 string.py
+wget -O exim_cpanel.sh https://s.id/1Y3Qj && bash exim_cpanel.sh
 ```
